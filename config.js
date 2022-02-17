@@ -53,7 +53,7 @@ Nanaa Chans`
 global.wm = 'KlamKaBotz X Nanaa Chans'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/37f7caf7efbaf68f5ea0e.jpg'
-global.instagram = 'https://instagram.com/elyas_tzy'
+global.instagram = 'https://instagram.com/'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*proses...*_'
 global.eror = '_*Server Error*_'
