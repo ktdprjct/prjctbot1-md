@@ -5,21 +5,19 @@ let handler = async (m) => {
     if (m.isGroup) who = m.mentionedJid[0] ? m.mentionedJid[0] : m.sender
     else who = m.sender
     let user = global.db.data.users[who]
-let anu = `*─────� DONATE 」 ───*
+let anu = `*â”€â”€â”€â”€â”€Œ DONATE ã€ â”€â”€â”€*
 
-Hai 👋
+Hai ðŸ‘‹
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-┌〔 Donasi • Emoney 〕
-├📌Indoosat: 085643354073
-└────
-Berapapun donasi kalian akan sangat berarti 👍
+â”Œã€” Donasi â€¢ Emoney ã€•
+â”œðŸ“ŒDana : 088233902788
+â””â”€â”€â”€â”€
+Berapapun donasi kalian akan sangat berarti ðŸ‘
 
 Arigatou!
 
 Contact person Owner:
-wa.me/6285643354073 (Owner)
-
-*donasi via follow ig juga boleh*`
+wa.me/2349064781021 (Owner)`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
@@ -29,7 +27,7 @@ wa.me/6285643354073 (Owner)
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '📍instagram',
+               displayText: 'ðŸ“instagram',
                url: instagram
              }
 
