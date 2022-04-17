@@ -5,21 +5,20 @@ let handler = async (m) => {
     if (m.isGroup) who = m.mentionedJid[0] ? m.mentionedJid[0] : m.sender
     else who = m.sender
     let user = global.db.data.users[who]
-let anu = `*─────� DONATE 」 ───*
+let anu = `*────── 「 DONATE 」 ──────*
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├📌Indoosat: 085643354073
+├🏧 0895342581896 (Dana)
+├📍 atau bisa melalui qris di atas
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
 Arigatou!
 
 Contact person Owner:
-wa.me/6285643354073 (Owner)
-
-*donasi via follow ig juga boleh*`
+wa.me/62895342581896 (Owner)`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
