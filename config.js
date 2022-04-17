@@ -1,4 +1,4 @@
-global.owner = ['6285643354073'] // Put your number here
+global.owner = ['62895342581896', '6285171612950', '6285877650700'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -42,18 +42,20 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
-global.author = `elyas(bot)
+global.packname = `ktdprjct bot`
+global.author = `ktdprjct
 
 
 
 
-ig: elyas_tzy`
 
-global.wm = 'by elyas'
+
+62895342581896`
+
+global.wm = '© ktdprjct メ bot'
 global.watermark = wm
-global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
-global.instagram = 'https://instagram.com/elyas_tzy'
+global.media = 'https://telegra.ph/file/4b2e1f28999856c38c321.jpg'
+global.instagram = ''
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
